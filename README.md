@@ -1,2 +1,2 @@
-# RUTGERS-Challanges-Homeworks
-RUTGERS-Challanges-Homeworks
+# RUTGERS-02.Challanges
+RUTGERS-02.Challanges
